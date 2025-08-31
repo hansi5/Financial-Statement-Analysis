@@ -8,7 +8,7 @@ A Flask-based web application to perform **financial ratio analysis** from Profi
 
 ## Features  
 - **Data Input Forms** – Input Profit & Loss (P&L) and Balance Sheet (B/S) data.  
-- **Ratio Calculations** – Automatically compute profitability, liquidity, solvency, and leverage ratios.  
+- **Ratio Calculations** – Automatically compute profitability, liquidity, and solvency ratios.  
 - **Error Handling** – Detects division errors and unbalanced balance sheets.  
 - **5-Year Comparison** – Analyze max, min, and average ratios over 5 years.  
 - **Visual Reports** – Displays ratio definitions, formulas, and interpretations.  
@@ -29,12 +29,12 @@ A Flask-based web application to perform **financial ratio analysis** from Profi
 
 ## Ratios Implemented  
 
-### Profit & Loss Ratios  
+### Profit & Loss Ratios (Profitability)
 - Gross Profit Ratio  
 - Net Profit Ratio  
 - Operating Profit Ratio  
 
-### Balance Sheet Ratios  
+### Balance Sheet Ratios (Solvency and Liquidity)
 - Current Asset Ratio  
 - Quick Asset Ratio  
 - Long Term Debt to Equity Ratio  
