@@ -2,7 +2,7 @@
 
 A Flask-based web application to perform **financial ratio analysis** from Profit & Loss statements and Balance Sheets. The app allows users to input financial data, automatically compute ratios, visualize trends, and generate reports for both **1-year and 5-year periods**.  
 
-🔗 **Live Demo:** [View]([https://financial-statement-analysis.onrender.com/])  
+🔗 **Live Demo:** [View](https://financial-statement-analysis.onrender.com/)  
 
 ---
 
